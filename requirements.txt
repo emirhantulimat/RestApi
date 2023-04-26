@@ -1,2 +1,2 @@
 Flask==2.0.1
-flasgger==0.9.6
+Flask-RESTX==1.1.0
